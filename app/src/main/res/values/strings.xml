@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">System Service</string>
+    <string name="service_desc">Monitors text input for research purposes.</string>
+</resources>
